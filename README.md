@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @BHGC-DEV
+- I contain the BHGC contract, and other tools used/created to bring BHGC to life.
